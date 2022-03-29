@@ -4,8 +4,7 @@
     "demo": "https://london.ghost.io",
     "version": "1.0.0",
     "engines": {
-        "ghost": ">=4.0.0",
-        "ghost-api": "v4"
+        "ghost": ">=4.0.0"
     },
     "license": "MIT",
     "screenshots": {
@@ -51,7 +50,7 @@
         "autoprefixer": "10.4.4",
         "beeper": "2.1.0",
         "cssnano": "5.1.5",
-        "gscan": "4.24.0",
+        "gscan": "4.25.2",
         "gulp": "4.0.2",
         "gulp-livereload": "4.0.2",
         "gulp-postcss": "9.0.1",
